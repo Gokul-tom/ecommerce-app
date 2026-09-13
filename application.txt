@@ -10,3 +10,7 @@ Product search:
 -  Product can be displayed
 -  Search results are displayed
 
+Pricing 
+-  Product prices can be updated
+-  Updated prices are reflected in the product catalog
+
