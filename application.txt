@@ -10,3 +10,7 @@ Product search:
 -  Product can be displayed
 -  Search results are displayed
 
+Wishlist
+-  Product can be added
+-  Wishlist items can be viewed separetely
+
