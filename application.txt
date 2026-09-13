@@ -10,7 +10,13 @@ Product search:
 -  Product can be displayed
 -  Search results are displayed
 
+<<<<<<< HEAD
 Pricing 
 -  Product prices can be updated
 -  Updated prices are reflected in the product catalog
+=======
+Wishlist
+-  Product can be added
+-  Wishlist items can be viewed separetely
+>>>>>>> feature/wishlist
 
