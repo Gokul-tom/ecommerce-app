@@ -22,3 +22,23 @@ Customer support
 -   Customers can view support information
 -   Support requests can be submitted
 
+Customer notification:
+-  Customer can receive order status notifications.
+-  Notification preferences can be managed by the customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
