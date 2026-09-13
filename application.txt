@@ -6,3 +6,7 @@ Product Catalog
 -  Product category is displayed
 -  Product availability status is displayed
 
+Product search:
+-  Product can be displayed
+-  Search results are displayed
+
