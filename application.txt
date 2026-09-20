@@ -45,3 +45,7 @@ Order management
 -  Customers can view their orders.
 -  Customers can review previous order details.
 
+Customer profile
+-  Customers can view their profile information.
+-  Customers can update their profile information.
+
