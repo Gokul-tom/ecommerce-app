@@ -37,4 +37,6 @@ Order tracking
 -  Customer can view order status
 -  Order status is displayed using standardized status values.
 
-
+Payment Processing
+-  Customers can complete payment securely.
+-  Payment status is recorded for each other.
