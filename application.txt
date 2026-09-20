@@ -40,3 +40,8 @@ Order tracking
 Payment Processing
 -  Customers can complete payment securely.
 -  Payment status is recorded for each other.
+
+Order management 
+-  Customers can view their orders.
+-  Customers can review previous order details.
+
